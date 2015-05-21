@@ -1,0 +1,18 @@
+input.ng-dirty.ng-invalid {
+  background-color: #fff;
+}
+.row,
+.input-group {
+  margin-top: 6px;
+  margin-bottom: 6px;
+}
+h1,
+h2 {
+  font-weight: normal;
+}
+h1 {
+  font-size: 2em;
+}
+h2 {
+  font-size: 1.6em;
+}
